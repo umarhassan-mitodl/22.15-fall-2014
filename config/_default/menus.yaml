@@ -1,0 +1,25 @@
+leftnav:
+- identifier: a1866b44-4e72-9629-826f-f44a2bd7087c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8325039d-9234-206d-6b43-2c959adf5681
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: ed6fbc8c-33fa-352a-e7bd-2b910c318696
+  name: Course Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 0e9a5812-64e8-07a6-c482-f19256c29502
+  name: Tutorial Videos
+  pageRef: /video_galleries/tutorial-videos
+  weight: 40
+- identifier: d6c915b9-195a-3a80-7b61-f97e38c7f333
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 4c9cf728-e845-364e-5c24-fe8713c7f930
+  name: Exams
+  pageRef: /pages/exams
+  weight: 60
